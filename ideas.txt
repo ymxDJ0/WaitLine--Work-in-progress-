@@ -1,0 +1,4 @@
+-pomodoro
+-stretch reminder
+-hours, minutes and seconds (important!)
+https://github.com/race604/clock-tui
